@@ -4,17 +4,17 @@
 
 [Project Overview](#project-overview)
 
-Data Sources 
+[Data Sources](#data-sources)
 
-Tools used
+[Tools used](tools-used)
 
-Data Cleaning and Preparation
+[Data Cleaning and Preparation](data-cleaning-and-preparation)
 
-Exploratory Data Analysis
+[Exploratory Data Analysis](exploratory-data-analysis)
 
-Data Analysis
+[Data Analysis](data-analysis)
 
-Data Visualization
+[Data Visualization](data visualization)
 
 ### Project Overview
 ---
