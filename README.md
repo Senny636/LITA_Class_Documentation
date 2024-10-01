@@ -45,4 +45,5 @@ WHERE CONDITION = TRUE
 
 ### Data Visualization
 
+<img width="173" alt="Screenshot133036" src="https://github.com/user-attachments/assets/c0344f63-7a70-43c5-b777-33472bf2be1a">
 
