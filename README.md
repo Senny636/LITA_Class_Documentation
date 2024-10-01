@@ -2,6 +2,20 @@
 
 ### Project Title: Job Context
 
+[Project Overview](#project-overview)
+
+Data Sources 
+
+Tools used
+
+Data Cleaning and Preparation
+
+Exploratory Data Analysis
+
+Data Analysis
+
+Data Visualization
+
 ### Project Overview
 ---
 This is to state my job description.
@@ -47,3 +61,7 @@ WHERE CONDITION = TRUE
 
 <img width="173" alt="Screenshot133036" src="https://github.com/user-attachments/assets/c0344f63-7a70-43c5-b777-33472bf2be1a">
 
+
+|Heading 1|Heading 2|Heading 3| 
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
